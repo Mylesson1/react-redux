@@ -1,0 +1,24 @@
+export const SET_IS_LOADED = 'SET_IS_LOADED';
+export const SET_PAGE_TITLE = 'SET_PAGE_TITLE';
+export const FETCH_NAVBAR_LIST = 'FETCH_NAVBAR_LIST';
+export const FETCH_PRODUCT_LIST = 'FETCH_PRODUCT_LIST';
+export const FETCH_PRODUCT_ITEM = 'FETCH_PRODUCT_ITEM';
+export const SET_CURRENT_PAGE = 'SET_CURRENT_PAGE';
+export const SET_CART_LIST = 'SET_CART_LIST';
+
+export const DELETE_CART_ITEM = 'DELETE_CART_ITEM';
+export const OPEN_MUDAL = 'OPEN_MUDAL';
+
+export const SET_PAGINATION = 'SET_PAGINATION';
+
+export const FETCH_PRODUCT_LIST_SUB = 'FETCH_PRODUCT_LIST_SUB';
+
+
+
+
+
+
+
+
+
+
